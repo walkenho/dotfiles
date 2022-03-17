@@ -55,7 +55,6 @@ format = '[\($symbol$branch\)]($style) '
 [git_status]
 style="red"
 format = '([\[$conflicted$deleted$renamed$modified$staged$behind$untracked\]]($style) )'
-modified = '*'
 
 [python]
 style="yellow"
